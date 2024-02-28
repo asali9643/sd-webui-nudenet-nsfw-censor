@@ -92,6 +92,7 @@ to compensate NudeNet's detection often is off-centered or does not cover the en
 - `Female genitalia exposed`
 - `Male breast exposed`
 - `Male genitalia exposed`
+- `Male genitalia covered`
 
 </details> 
 
